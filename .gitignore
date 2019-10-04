@@ -1,0 +1,6 @@
+lib
+mkspecs
+plugins
+.moc
+.obj
+.qmake.stash
